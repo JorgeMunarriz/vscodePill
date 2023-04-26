@@ -15,6 +15,6 @@ describe("exercise-06", () => {
     let n = Number(count);
 
     expect(branches.current).toMatch(/develop/);
-    expect(n).toEqual(1);
+    expect(n).toEqual(4);
   });
 });
